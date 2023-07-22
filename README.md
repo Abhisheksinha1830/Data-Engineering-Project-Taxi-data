@@ -13,4 +13,4 @@ Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 Data Dictionary https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-<img src="architecture.jpg?raw=true"/>
+<img src="data model/data model.jpeg?raw=true"/>
