@@ -7,7 +7,7 @@ This project focus on performing data analysis on Taxi data using various tools 
 
 ## Technology used
  1.Python
- # Google Cloud Platform
+Google Cloud Platform
  2.Google Storage
  3.Compute Instance
  4.BigQuery
