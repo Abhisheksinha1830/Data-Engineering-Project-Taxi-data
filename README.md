@@ -2,3 +2,5 @@
 This project aims to securely manage, streamline, and perform analysis on the structured data of USA Taxi service
 ## Introduction
 This project focus on performing data analysis on Taxi data using various tools like GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio
+## Project Flow
+"/images/cropped_pic.png?raw=true" # your photo (or logo) here
