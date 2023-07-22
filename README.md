@@ -6,11 +6,17 @@ This project focus on performing data analysis on Taxi data using various tools 
 <img src="architecture.jpg?raw=true"/>
 
 ## Technology used
- 1.Python
+1.Python
 Google Cloud Platform
- 2.Google Storage
- 3.Compute Instance
- 4.BigQuery
- 5.Looker Studio
+2.Google Storage
+3.Compute Instance
+4.BigQuery
+5.Looker Studio
 
- 6. Modern Data Pipeine Tool - https://www.mage.ai/
+6. Modern Data Pipeine Tool - https://www.mage.ai/
+
+## Dataset used
+Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+
+
